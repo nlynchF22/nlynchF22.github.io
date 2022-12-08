@@ -1,0 +1,44 @@
+h1{
+    color: red;
+    font-family: Georgia;
+}
+
+h2{
+  color: red;
+  font-family: Georgia;
+}
+
+h3{
+  color: red;
+  font-family: Georgia;
+}
+
+p{
+  color: red;
+  font-family: Georgia;
+}
+
+a{
+  color: blue;
+}
+
+body{
+  background-color: #26c485;
+}
+
+label{
+  color: red;
+  font-family: Georgia;
+}
+
+button{
+  background-color: #9799ca;
+  font-family: Georgia;
+  color: #5b4b49;
+}
+
+select{
+  background-color: #9799ca;
+  color: #5b4b49;
+  font-family: Georgia;
+}
