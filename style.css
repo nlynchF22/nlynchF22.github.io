@@ -52,7 +52,7 @@ button{
   color: #5b4b49;
   border: 1px solid;
   border-color: #000;
-  float: right;
+  float: left;
 }
 
 select{
