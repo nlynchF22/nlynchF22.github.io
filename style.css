@@ -1,29 +1,44 @@
+
 h1{
     color: red;
     font-family: Georgia;
+  border: 1px solid;
+  background-color: #525174;
+  text-align: center;
 }
 
 h2{
   color: red;
   font-family: Georgia;
+  border: 1px solid;
+  background-color: #546a78;
+  text-align: center;
+
 }
 
 h3{
   color: red;
   font-family: Georgia;
+  border: 1px solid;
+  background-color: #4c4b63;
+  text-align: center;
 }
 
 p{
   color: red;
   font-family: Georgia;
+  background-color: #274060;
 }
 
 a{
   color: blue;
+  background-color: #e9724c;
 }
 
 body{
-  background-color: #26c485;
+  background-color: #9799ca;
+  border: 1px solid;
+  border-color: #000;
 }
 
 label{
@@ -32,13 +47,19 @@ label{
 }
 
 button{
-  background-color: #9799ca;
+  background-color: #26c485;
   font-family: Georgia;
   color: #5b4b49;
+  border: 1px solid;
+  border-color: #000;
+  float: right;
 }
 
 select{
-  background-color: #9799ca;
+  background-color: #26c485;
   color: #5b4b49;
   font-family: Georgia;
+  border: 1px solid;
+  border-color: #000;
 }
+
