@@ -97,5 +97,8 @@ url.appendChild(document.createTextNode(filteredFrames2[i].url));
 // Puts breaks between each links so they are on seperate lines
 display.appendChild(document.createElementNS("http://www.w3.org/1999/xhtml", "br"));
   }
+  if (filteredFrames2.length == 0){
+    display.innerHTML = 'There are currently no frames meeting your requirements.';
+  }
 });
 
